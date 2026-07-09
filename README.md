@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Vishal Bharwad
 
-<!--
-**VishalBharwad/VishalBharwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 ASP.NET Core Developer
 
-Here are some ideas to get you started:
+I am passionate about building web applications using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ASP.NET Core MVC
+- C#
+- SQL Server
+- Entity Framework Core
+- LINQ
+
+---
+
+## 📚 Currently Learning
+
+- ASP.NET Core
+- Entity Framework Core
+- Web API
+- Git & GitHub
+
+---
+
+## 💻 Skills
+
+- C#
+- ASP.NET Core MVC
+- SQL Server
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+---
+
+## 🚀 Projects
+
+### 🏡 Village Revenue System
+
+ASP.NET Core MVC application for village revenue management.
+
+### 📘 CSharp Practice
+
+Daily C# interview programs.
+
+---
+
+## 📫 Contact
+
+Email:
+bharvadvishal005@gmail.com
+
+GitHub:
+https://github.com/VishalBharwad
